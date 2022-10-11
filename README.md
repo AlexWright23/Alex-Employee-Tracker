@@ -9,6 +9,6 @@ SO THAT I can organize and plan my business
 Used to create, update, and delete information about employees
 
 
-
+## Screenshot
 
 ## Video
